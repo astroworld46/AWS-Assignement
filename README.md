@@ -1,4 +1,4 @@
-# AWS-Assignement
+# AWS-Assignment
 AWS Zero to Hero 
 By LetsUpgrade Platform.
 
